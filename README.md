@@ -1,4 +1,4 @@
-### Greetings, strangers 👋
+### Greetings, traveler. 👋
 <img align="right" alt="GIF" src="https://c.tenor.com/AVGYV4JqDAUAAAAC/hungry-pooh-bear.gif" width="350" height="350" />
 
 ### 🧑 I'm Yuri Yu
