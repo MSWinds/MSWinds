@@ -24,4 +24,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MSWinds&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=MSWinds)
+
+
 
