@@ -4,7 +4,7 @@
 ### 🧑 I'm Yuri Yu
 
 - 😋 I graduated from UC Santa Barbara with a B.S. in Statistics and Data Science.📊
-- 🌱 Currently learning AI, Data Science and Data Analytics
+- 🌱 Currently learning NLP, AI, Data Science and Data Analytics
 - 📫 How to reach me: 4kmswinds@gmail.com
 - ⚡ Fun fact: I play Dota/Dota2, Warthunder, Warframe, and etc...
 
