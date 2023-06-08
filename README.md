@@ -20,10 +20,6 @@
 ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm&logoColor=green)
 ![VSCode](https://img.shields.io/badge/-VSCode-333333?logo=visualstudiocode&logoColor=blue&style=flat)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=MSWinds&show_icons=true&theme=dark&count_private=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MSWinds&theme=dark&mode=weekly)](https://git.io/streak-stats)
-
 ![Profile View Counter](https://komarev.com/ghpvc/?username=MSWinds)
 
 
