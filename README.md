@@ -6,6 +6,7 @@
 - 😋 I graduated from UC Santa Barbara with a B.S. in Statistics and Data Science.📊
 - 🌱 Currently learning NLP, AI, Data Science and Data Analytics
 - 📫 How to reach me: 4kmswinds@gmail.com
+- 🤩 My Personal Website: https://mswinds.github.io/home
 - ⚡ Fun fact: I play Dota/Dota2, Warthunder, Warframe, and etc...
 
 ### 🛠 Tech Stack
