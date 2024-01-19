@@ -4,10 +4,11 @@
 ### 🧑 I'm Yuri Yu
 
 - 😋 I graduated from UC Santa Barbara with a B.S. in Statistics and Data Science.📊
-- 🌱 Currently learning NLP, AI, Data Science and Data Analytics
+- 🎓 Claremont Graduate University with a Master's in Data Science and Analytics. 👨‍🎓
+- 🌱 Currently mastering NLP, Deep Learning, Data Science, and Data Analytics.
 - 📫 How to reach me: 4kmswinds@gmail.com
-- 🤩 My Personal Website: https://mswinds.github.io/home
-- ⚡ Fun fact: I play Dota/Dota2, Warthunder, Warframe, and etc...
+- 🤩 **My Personal Website**: **https://mswinds.github.io/home**
+- ⚡ Fun fact: I play Dota/Dota2, Warthunder, Warframe, Civ 6, and etc...
 
 ### 🛠 Tech Stack
 - 💻 &#160;![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=yellow)
