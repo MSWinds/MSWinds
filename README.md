@@ -1,5 +1,5 @@
 ### Greetings, traveler. 👋
-<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/0689e4c6-419e-4cd8-8925-eab65be49824" width="250" height="250" />
+<img align="right" src="assets/whitecat-toy.gif" width="250" height="250" />
 
 ### 🧑 I'm Yuri Yu
 
