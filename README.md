@@ -58,10 +58,10 @@
 <img src="https://img.shields.io/badge/NPM-333333?style=flat&logo=npm&logoColor=CB3837"/>
 </p>
 
-</td><td valign="top" align="center" width="500" style="width:500px">
+</td><td valign="top" align="center" width="400" style="width:400px">
 <h3>🎨 Creative AI Demos</h3>
 <sub>Playful Desk Buddy</sub><br/>
-<img src="assets/whitecat-toy.gif" alt="White cat toy demo" width="500"/>
+<img src="assets/whitecat-toy.gif" alt="White cat toy demo" width="400"/>
 </td>
 </tr>
 </table>
